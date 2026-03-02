@@ -74,7 +74,7 @@ Our simulations validate that intelligent, parallel learning significantly impro
 ### 🔹 Figure 4: Cooperative Sensing Performance (ROC Curve)
 
 <p align="center">
-  <img src="results/fig4.png" width="700"/>
+  <img src="fig4.png" width="700"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ Our simulations validate that intelligent, parallel learning significantly impro
 ### 🔹 Figure 5: Channel Finding Delay
 
 <p align="center">
-  <img src="results/fig5.png" width="700"/>
+  <img src="fig5.png" width="700"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ Our simulations validate that intelligent, parallel learning significantly impro
 ### 🔹 Figure 6: Channel Switching Rate
 
 <p align="center">
-  <img src="results/fig6.png" width="700"/>
+  <img src="fig6.png" width="700"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ Our simulations validate that intelligent, parallel learning significantly impro
 ### 🔹 Figure 7: Network Throughput (Greedy Baseline)
 
 <p align="center">
-  <img src="results/fig7.png" width="700"/>
+  <img src="fig7.png" width="700"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Our simulations validate that intelligent, parallel learning significantly impro
 ### 🔹 Figure 8: Network Throughput (UCB1 Parallel Strategy)
 
 <p align="center">
-  <img src="results/fig8.png" width="700"/>
+  <img src="fig8.png" width="700"/>
 </p>
 
 The reduced sensing delay from UCB1 directly translates into improved throughput performance.
